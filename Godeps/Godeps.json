@@ -1,0 +1,13 @@
+{
+	"ImportPath": "github.com/heroku/go-getting-started",
+	"GoVersion": "go1.5",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/go-martini/martini",
+			"Rev": "49411a5b646861ad29a6ddd5351717a0a9c49b94"
+		}
+	]
+}
