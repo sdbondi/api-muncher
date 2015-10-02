@@ -1,1 +1,1 @@
-web: ./api_muncher
+web: api_muncher
