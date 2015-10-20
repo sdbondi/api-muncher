@@ -12,3 +12,7 @@ blaze-html-templates
 standard-minifiers
 mongo
 random
+ecmascript
+es5-shim
+react
+mquandalle:jade
