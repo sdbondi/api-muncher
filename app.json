@@ -1,5 +1,5 @@
 {
   "name": "api_muncher",
-  "image": "golang",
+  "image": "heroku/go:latest",
   "addons": []
 }
