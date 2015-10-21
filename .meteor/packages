@@ -12,7 +12,13 @@ blaze-html-templates
 standard-minifiers
 mongo
 random
-ecmascript
-es5-shim
 react
-mquandalle:jade
+ecmascript
+kadira:react-layout
+kadira:flow-router
+useraccounts:materialize
+accounts-github
+materialize:materialize@=0.97.0
+useraccounts:core
+service-configuration
+http
